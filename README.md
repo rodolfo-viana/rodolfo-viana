@@ -1,16 +1,19 @@
-### Hi there 👋
+### Quem é Rodolfo Viana?
 
-<!--
-**rodolfo-viana/rodolfo-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hoje sou cientista de dados e professor de programação. Antes, fui jornalista em grandes veículos de imprensa. Entre uma coisa e outra, fui jornalista de dados.
 
-Here are some ideas to get you started:
+### O que você pode esperar nos meus repos?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Registros de workshops que dei, trabalhos antigos que fiz, alguns estudos e minhas colaborações em projetos open-source.
+
+### Quais os temas dos repos?
+
+Há webscraping, automação em geral, estudos de frameworks de machine learning, análises exploratórias para reportagens etc.
+
+### Quais as linguagens você pode encontrar nos repos?
+
+Majoritariamente Python (`py`), sobretudo em Jupyter Notebook (`ipynb`). Há alguma coisa de front-end (`html`, `css`, `scss`, `js`), mas bem pouco. Também há coisas em C++ (`cpp`), linguagem que ando aprendendo. 
+
+### Como falar com Rodolfo?
+
+Escreva para eu@rodolfoviana.com.br.
