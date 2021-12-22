@@ -1,19 +1,9 @@
-### Quem é Rodolfo Viana?
+Olá. Meu nome é Rodolfo Viana, tenho 40 anos e moro em São Paulo. 
 
-Hoje sou cientista de dados e professor de programação. Antes, fui jornalista em grandes veículos de imprensa. Entre uma coisa e outra, fui jornalista de dados.
+Sou cientista de dados e professor de programação. Antes, fui repórter em grandes veículos de imprensa, inclusive especializado em dados.
 
-### O que você pode esperar nos meus repos?
+Aqui você vai encontrar materiais de workshops e aulas que dei, algumas análises para reportagens e colaborações minhas em projetos open-source. Tem códigos de webscraping, automação, estudos de machine learning, registros de cursos que ando fazendo etc.
 
-Registros de workshops que dei, trabalhos antigos que fiz, alguns estudos e minhas colaborações em projetos open-source.
+Sobre linguagens, os repositórios contêm majoritariamente códigos em Python (`py`), sobretudo em Jupyter Notebook (`ipynb`). Há alguma coisa de front-end (`html`, `css`, `scss`, `js`), mas bem pouco. Também há coisas em C++ (`cpp`), linguagem que ando aprendendo nos últimos tempos.
 
-### Quais os temas dos repos?
-
-Há webscraping, automação em geral, estudos de frameworks de machine learning, análises exploratórias para reportagens etc.
-
-### Quais as linguagens você pode encontrar nos repos?
-
-Majoritariamente Python (`py`), sobretudo em Jupyter Notebook (`ipynb`). Há alguma coisa de front-end (`html`, `css`, `scss`, `js`), mas bem pouco. Também há coisas em C++ (`cpp`), linguagem que ando aprendendo. 
-
-### Como falar com Rodolfo?
-
-Escreva para eu@rodolfoviana.com.br.
+Se quiser falar comigo, mande um salve para eu@rodolfoviana.com.br.
