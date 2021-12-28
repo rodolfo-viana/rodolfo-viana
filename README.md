@@ -4,8 +4,7 @@ Sou cientista de dados e professor de programação. Antes, fui repórter em gra
 
 Aqui você vai encontrar materiais de workshops e aulas que dei, algumas análises para reportagens e colaborações minhas em projetos open-source. Tem códigos de webscraping, automação, estudos de machine learning, registros de cursos que ando fazendo etc.
 
-Sobre linguagens, os repositórios contêm majoritariamente códigos em Python (`py`), sobretudo em Jupyter Notebook (`ipynb`). Há alguma coisa de front-end (`html`, `css`, `scss`, `js`), também algo em shell script (`.sh`), mas bem pouco. Também há linhas de C++ (`cpp`), linguagem que ando aprendendo nos últimos tempos.
-
 Se quiser falar comigo, mande um salve para eu@rodolfoviana.com.br.
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-viana&hide=jupyter%20notebook&hide_title=true&exclude_repo=eventos&card_width=500)
+
