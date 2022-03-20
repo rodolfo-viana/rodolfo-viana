@@ -1,4 +1,4 @@
-Olá. Meu nome é Rodolfo Viana, tenho 40 anos e moro em São Paulo. 
+Olá. Meu nome é Rodolfo Viana, tenho 41 anos e moro em São Paulo. 
 
 Sou cientista de dados e professor de programação. Antes, fui jornalista especializado em reportagens orientadas por dados.
 
