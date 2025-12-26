@@ -10,5 +10,5 @@ Enjoy your reading.
 
 [![Website](https://img.shields.io/badge/Website-rodolfoviana.com.br-000000?style=flat)](https://rodolfoviana.com.br)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Viana-000000?style=flat)](https://linkedin.com/in/rodolfo-viana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Viana-000000?style=flat)](https://linkedin.com/in/rodolfoviana)
 
