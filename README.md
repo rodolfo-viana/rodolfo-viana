@@ -7,4 +7,3 @@ I am currently pursuing a Master's degree in Computer Science at Unesp, where my
 Here you will find a selection of my work, studies, personal stuff and collaborations on open-source projects.
 
 Enjoy your reading.
-
