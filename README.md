@@ -1,5 +1,10 @@
-Olá. Meu nome é Rodolfo Viana. Sou engenheiro de dados e professor. Antes, fui jornalista especializado em reportagens orientadas por dados.
+Hi,
 
-Aqui você vai encontrar materiais de workshops e aulas que ministrei, algumas análises que deram origem a reportagens e colaborações minhas em projetos open-source. Tem códigos de webscraping, automação, estudos de machine learning, registros de cursos etc.
+My name is Rodolfo Viana. I am a data engineer and AI lecturer based in Brazil.
 
-Se quiser falar comigo, mande um salve para eu@rodolfoviana.com.br.
+I am currently pursuing a Master's degree in Computer Science at Unesp, where my research focuses on brain tumor segmentation algorithms.
+
+Here you will find a selection of my work, studies, personal stuff and collaborations on open-source projects.
+
+Enjoy your reading.
+
