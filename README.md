@@ -8,7 +8,9 @@ Here you will find a selection of my work, studies, personal stuff and collabora
 
 Enjoy your reading.
 
-[![Website](https://img.shields.io/badge/Website-rodolfoviana.com.br-000000?style=flat)](https://rodolfoviana.com.br)
+<p>&nbsp;</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Viana-000000?style=flat)](https://linkedin.com/in/rodolfoviana)
+[![Website](https://img.shields.io/badge/Website-rodolfoviana.com.br-ffffff?style=flat-square)](https://rodolfoviana.com.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo%20Viana-ffffff?style=flat-square)](https://linkedin.com/in/rodolfoviana)
 
